@@ -6,4 +6,4 @@ SELECT date, SUM(volume_sold_liters) AS Aged_Dark_Rum, FROM bigquery-public-data
 
 A similar SQL query got the sum of Gold Rum sales grouped by year.
 
-The dashboard can be viewed here[https://jacobtessers.github.io/Dashboard_Project/].
+The dashboard can be viewed [here](https://jacobtessers.github.io/Dashboard_Project/).
